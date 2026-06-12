@@ -531,9 +531,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ### Contact Information
 
 - **Author** - Arghadeep Pandit
-- **Email** - [your-email@example.com]
-- **LinkedIn** - [LinkedIn Profile]
-- **GitHub** - [@yourusername](https://github.com/yourusername)
+- **Email** - [arghadeep2ndec@gmail.com]
+- **LinkedIn** - [linkedin.com/in/arghadeep-pandit-b7946528b]
+- **GitHub** - [github.com/Argha9851]
 
 ---
 
@@ -555,7 +555,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **Sample Q&A Pairs** - 500+
 - **Documentation Pages** - 15+
 - **Test Cases** - 50+
-- **Development Time** - 4+ weeks
+- **Development Time** - 2+ weeks
 - **Git Commits** - 50+
 
 ---
